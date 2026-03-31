@@ -20,6 +20,16 @@ typescriptconst altarek: SoftwareEngineer = {
   learning:    ["Advanced System Design", "Cloud Infrastructure", "DevOps"],
   philosophy:  "Write code that humans can read, not just machines.",
 };
+$ whoami
+typescriptconst altarek: SoftwareEngineer = {
+  name:        "Altarek Attallah",
+  role:        "Full Stack Software Engineer",
+  location:    "Egypt 🇪🇬",
+  focus:       ["Web Development", "System Design", "Clean Architecture"],
+  currentWork: "Building scalable, production-grade web applications",
+  learning:    ["Advanced System Design", "Cloud Infrastructure", "DevOps"],
+  philosophy:  "Write code that humans can read, not just machines.",
+};
 
 ⚡ Tech Stack
 🎨 Frontend
