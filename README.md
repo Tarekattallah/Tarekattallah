@@ -119,7 +119,7 @@ $ ls ./current-focus/
 ## 📈 Contribution Snake
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
