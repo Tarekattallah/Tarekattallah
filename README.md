@@ -66,8 +66,8 @@ const altarek: SoftwareEngineer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarekattallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekattallah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Tarekattallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1](https://github-readme-stats.vercel.app/api?username=Tarekattallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1)"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekattallah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekattallah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1)"/>
 </div>
 
 <div align="center">
@@ -83,7 +83,7 @@ const altarek: SoftwareEngineer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarekattallah&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=Tarekattallah&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7](https://github-profile-trophy.vercel.app/?username=Tarekattallah&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)" alt="Trophies"/>
 </div>
 
 ---
@@ -119,7 +119,7 @@ $ ls ./current-focus/
 ## 📈 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="[https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation"/>
 </div>
 
 ---
