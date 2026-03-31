@@ -20,6 +20,7 @@ typescriptconst altarek: SoftwareEngineer = {
   learning:    ["Advanced System Design", "Cloud Infrastructure", "DevOps"],
   philosophy:  "Write code that humans can read, not just machines.",
 };
+
 $ whoami
 typescriptconst altarek: SoftwareEngineer = {
   name:        "Altarek Attallah",
@@ -54,7 +55,6 @@ Show Image
 Show Image
 Show Image
 Show Image
-
 📊 GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarekattallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1"/>
