@@ -16,10 +16,10 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarekattallah/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AltarekAttallah)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarekattallah)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarekattallah00@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AltarekAttallah&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Tarekattallah&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS)
 
 </div>
 
@@ -73,16 +73,16 @@ const altarek: SoftwareEngineer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AltarekAttallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltarekAttallah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarekattallah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekattallah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AltarekAttallah&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarekattallah&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AltarekAttallah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tarekattallah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
 ---
@@ -90,7 +90,7 @@ const altarek: SoftwareEngineer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AltarekAttallah&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarekattallah&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -126,7 +126,7 @@ $ ls ./current-focus/
 ## 📈 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AltarekAttallah/AltarekAttallah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Tarekattallah/Tarekattallah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
