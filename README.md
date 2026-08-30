@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tarekattallah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarekattallah00@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tarekattallah&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Tarekattallah&style=for-the-badge&color=00FFD1&label=PROFILE+VIEWS)](https://altarek-portfolio.vercel.app)
 
 </div>
 
